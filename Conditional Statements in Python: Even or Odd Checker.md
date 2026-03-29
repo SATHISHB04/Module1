@@ -1,3 +1,5 @@
+## Name: Sathish B
+## Reg.no: 212224040299
 # Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
